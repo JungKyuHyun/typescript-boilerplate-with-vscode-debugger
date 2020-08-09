@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "jacob",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^3.9.7"
+  }
 }
